@@ -1,13 +1,13 @@
-#Alan Josué Zamarrón Ortiz
+#Alan Josué Zamarrón Ortiz#
 
-##Descripcion del proyecto.
+##Descripcion del proyecto.##
 
 Este proyecto está creado en unity por Alan Josué Zamarrón Ortiz. 
 
 El proyecto consiste en simular las manos humanas en un entorno 3D con la funcionalidad de hace grap y trigger para que con ello podamos agarrar objetos del mismo entorno.
 Ademas agregamos diferentes objetos interactivos como una pelota que realmente rebota.
 
-##Instrucciones para ejecutar el proyecto.
+##Instrucciones para ejecutar el proyecto.##
   1. Se descarga la carpeta.
   2. Se inicializa en unity.
   3. Se conecta mediante cable los oculus.
@@ -16,4 +16,4 @@ Ademas agregamos diferentes objetos interactivos como una pelota que realmente r
   6. En los oculus debe aceptar los terminos
   7. ¡Disfruta!.
 
-##Imagenes del resultado.
+##Imagenes del resultado.##
