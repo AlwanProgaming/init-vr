@@ -13,11 +13,12 @@ Ademas agregamos diferentes objetos interactivos como una pelota que realmente r
   3. Se conecta mediante cable los oculus.
   4. En el apartado de file>build settings: Selecciona en Run device los oculus conectados.
   5. Presione el boton de Build and Run
-  6. En los oculus debe aceptar los terminos![com DefaultCompany INITVR-20260210-142948](https://github.com/user-attachments/assets/c4b684f3-6a47-4a18-88aa-5819a5dbe3b6)
+  6. En los oculus debe aceptar los terminos
 
   7. ¡Disfruta!.
 
 ## Imagenes del resultado.
 
-![Uploading com.DefaultCompany.INITVR-20260210-142948.jpg…]()
+![com DefaultCompany INITVR-20260210-142948](https://github.com/user-attachments/assets/c4b684f3-6a47-4a18-88aa-5819a5dbe3b6)
+
 
